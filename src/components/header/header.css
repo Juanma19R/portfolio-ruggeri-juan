@@ -36,9 +36,9 @@ header{
 
 /* ME */
 .me{
-    background: var(--color-white);
+    background: linear-gradient(var(--color-white), transparent);
     width: 22rem;
-    height: 35rem;
+    height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
