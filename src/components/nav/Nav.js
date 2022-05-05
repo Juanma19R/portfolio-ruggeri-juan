@@ -1,8 +1,8 @@
 import React from 'react';
 import {useState} from 'react';
 import './nav.css';
-import {AiOutlineHome, AiOutlineUser, AiOutlineBook, AiOutlineMessage} from 'react-icons/ai';
-import {RiServiceLine} from 'react-icons/ri';
+import {AiOutlineHome, AiOutlineUser, AiOutlineExperiment, AiOutlineMessage} from 'react-icons/ai';
+import {VscFolderLibrary} from 'react-icons/vsc';
 
 const Nav = () => {
 
@@ -20,11 +20,11 @@ const Nav = () => {
             </a>
             <a href='#experience' onClick={() => setActiveNav('#experience')} 
             className={activeNav === '#experience' ? 'active' : ''}>
-                <AiOutlineBook />
+                <AiOutlineExperiment />
             </a>
-            <a href='#services' onClick={() => setActiveNav('#services')} 
-            className={activeNav === '#services' ? 'active' : ''}>
-                <RiServiceLine />
+            <a href='#portfolio' onClick={() => setActiveNav('#portfolio')} 
+            className={activeNav === '#portfolio' ? 'active' : ''}>
+                <VscFolderLibrary />
             </a>
             <a href='#contact' onClick={() => setActiveNav('#contact')} 
             className={activeNav === '#contact' ? 'active' : ''}>
