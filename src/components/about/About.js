@@ -1,9 +1,9 @@
 import React from 'react';
 import './about.css';
 import ME from '../../assets/me-about.jpg';
-import {FaAward} from 'react-icons/fa';
-import {FiUsers} from 'react-icons/fi';
 import {VscFolderLibrary} from 'react-icons/vsc';
+import {AiOutlineExperiment} from 'react-icons/ai';
+import {MdOutlineQueryBuilder} from 'react-icons/md';
 
 const About = () => {
     return (
@@ -21,21 +21,21 @@ const About = () => {
                 <div className='about__content'>
                     <div className='about__cards'>
                         <article className='about__card'>
-                            <FaAward className='about__icon'/>
+                            <AiOutlineExperiment className='about__icon'/>
                             <h5>Experiencia</h5>
                             <small>1+ año</small>
                         </article>
 
                         <article className='about__card'>
-                            <FiUsers className='about__icon'/>
-                            <h5>Clientes</h5>
-                            <small>100+</small>
+                            <VscFolderLibrary className='about__icon'/>
+                            <h5>Proyectos completados</h5>
+                            <small>7</small>
                         </article>
 
                         <article className='about__card'>
-                            <VscFolderLibrary className='about__icon'/>
-                            <h5>Proyectos</h5>
-                            <small>30+</small>
+                            <MdOutlineQueryBuilder className='about__icon'/>
+                            <h5>Proyectos en desarrollo</h5>
+                            <small>3</small>
                         </article>
                     </div>
                         <p>Proactivo, responsable y resolutivo, soy un desarrollador motivado por aprender tecnologías que me ayuden a crecer en el área profesional. Actualmente estoy culminando la carrera de Desarrollo Front-end React en Coder House y participando del programa ONE - Oracle Next Education de Alura Latam y Oracle.</p>
