@@ -34,13 +34,12 @@ header{
     background: var(--color-primary);
 }
 
-/* ME */
-.me{
-    background: linear-gradient(var(--color-white), transparent);
-    width: 22rem;
+/* Ilusration */
+.ilusration{
+    width: 32rem;
     height: 30rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 16rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
@@ -62,6 +61,9 @@ header{
     header{
         height: 68vh;
     }
+    .ilusration{
+        display: none;
+    }
 }
 
 /* Media Queries (Cell phones) */
@@ -69,7 +71,7 @@ header{
     header{
         height: 100vh;
     }
-    .header__socials, .scroll__down{
+    .header__socials, .scroll__down, .ilusration{
         display: none;
     }
 }

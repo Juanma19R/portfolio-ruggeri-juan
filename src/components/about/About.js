@@ -38,7 +38,7 @@ const About = () => {
                             <small>3</small>
                         </article>
                     </div>
-                        <p>Proactivo, responsable y resolutivo, soy un desarrollador motivado por aprender tecnologías que me ayuden a crecer en el área profesional. Actualmente estoy culminando la carrera de Desarrollo Front-end React en Coder House y participando del programa ONE - Oracle Next Education de Alura Latam y Oracle.</p>
+                        <p>Proactivo, responsable y resolutivo, soy un desarrollador motivado por aprender tecnologías que me ayuden a crecer en el área profesional como desarrollador Front-end. Actualmente estoy participando del programa ONE - Oracle Next Education de Alura Latam y Oracle.</p>
 
                         <a href='#contact' className='btn btn-primary'>Hablemos!</a>
                 </div>
