@@ -29,17 +29,19 @@ const About = () => {
                         <article className='about__card'>
                             <VscFolderLibrary className='about__icon'/>
                             <h5>Proyectos completados</h5>
-                            <small>7</small>
+                            <small>8</small>
                         </article>
 
                         <article className='about__card'>
                             <MdOutlineQueryBuilder className='about__icon'/>
                             <h5>Proyectos en desarrollo</h5>
-                            <small>3</small>
+                            <small>2</small>
                         </article>
                     </div>
-                        <p>Proactivo, responsable y resolutivo, soy un desarrollador motivado por aprender tecnologías que me ayuden a crecer en el área profesional como desarrollador Front-end. Actualmente estoy participando del programa ONE - Oracle Next Education de Alura Latam y Oracle.</p>
-
+                        <p>Comprometido, preciso y proactivo. Me esfuerzo por evitar situaciones antagónicas por medio de la atención al detalle. Hago lo que esté a mi alcance para evitar riesgos y errores, poseo habilidades resolutivas.
+                        Objetivo y racional en la actividad que esté realizando. Como tiendo a ser perfeccionista y detallista me  siento a gusto trabajando con suficiente tiempo e información para poder organizarme. Antes de tomar una decisión prefiero tener muchos datos disponibles, por lo cual actúo con cautela a la hora de tomar decisiones.  
+                        Soy una persona moderadamente extrovertida y me gusta trabajar con otros. Por lo general soy un buen miembro de equipo y puede volverme parte integral del grupo. 
+                        Como Desarrollador Front-end estoy motivado por aprender tecnologías que me ayuden a crecer en el área profesional. Actualmente estoy participando del programa ONE - Oracle Next Education de Alura Latam y Oracle.</p>
                         <a href='#contact' className='btn btn-primary'>Hablemos!</a>
                 </div>
             </div>

@@ -6,6 +6,7 @@ import IMG3 from '../../assets/portfolio3.jpg';
 import IMG4 from '../../assets/portfolio4.jpg';
 import IMG5 from '../../assets/portfolio5.jpg';
 import IMG6 from '../../assets/portfolio6.jpg';
+import IMG7 from '../../assets/portfolio7.jpg';
 
 const data = [
     {
@@ -56,6 +57,14 @@ const data = [
         github: 'https://github.com/Juanma19R/trabajoRemoto',
         demo: 'https://juanma19r.github.io/trabajoRemoto/'
     },
+    {
+        id: 7,
+        image: IMG7,
+        title: 'Aplicación para monitorizar el tiempo',
+        desc: 'Proyecto creado con la API de OpenWeatherMap, ReactJS y maquetado con Bootstrap 5.',
+        github: 'https://github.com/Juanma19R/Practica-01',
+        demo: 'https://juanma19r.github.io/Practica-01/'
+    }
 ];
 
 const Portfolio = () => {
