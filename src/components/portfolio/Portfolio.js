@@ -31,7 +31,7 @@ const data = [
         title: 'Ecommers de productos electronicos',
         desc: 'Proyecto final para el curso de React Js de Coder House. Es un e-commers de articulos para PC, fue creado con React, Mui, SCSS y Firebase para simular su base de datos.',
         github: 'https://github.com/Juanma19R/ecommerce-react',
-        demo: 'https://juanma19r.github.io/ecommerce-react/'
+        demo: 'https://github.com/Juanma19R/ecommerce-react'
     },
     {
         id: 4,
@@ -63,7 +63,7 @@ const data = [
         title: 'Aplicación para monitorizar el tiempo',
         desc: 'Proyecto creado con la API de OpenWeatherMap, ReactJS y maquetado con Bootstrap 5.',
         github: 'https://github.com/Juanma19R/Practica-01',
-        demo: 'https://juanma19r.github.io/Practica-01/'
+        demo: 'https://github.com/Juanma19R/Practica-01'
     }
 ];
 
