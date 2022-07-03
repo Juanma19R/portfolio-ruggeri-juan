@@ -8,6 +8,7 @@ import IMG5 from '../../assets/portfolio5.jpg';
 import IMG6 from '../../assets/portfolio6.jpg';
 import IMG7 from '../../assets/portfolio7.jpg';
 import IMG8 from '../../assets/portfolio8.jpg';
+import IMG9 from '../../assets/portfolio9.jpg';
 
 const data = [
     {
@@ -73,6 +74,14 @@ const data = [
         desc: 'Segundo SPRINT del programa ONE (Oracle Next Education), fue construido con html5, css3 y javascript. Consta de adivinar la palabra secreta teniendo 10 oportunidades. Tambien cuenta con la opción de agregar tus propias palabras teniendo un limite de 8 letras y letras en mayúscula.',
         github: 'https://github.com/Juanma19R/Sprint-02-alura',
         demo: 'https://juanma19r.github.io/Sprint-02-alura/'
+    },
+    {
+        id: 9,
+        image: IMG9,
+        title: 'Galeria de imagenes PWA',
+        desc: 'Proyecto creado con la API de Unsplash, ReactJS y maquetado con Bootstrap 5.',
+        github: 'https://github.com/Juanma19R/gallery-app-react',
+        demo: 'https://delightful-sawine-a4d648.netlify.app/'
     }
 ];
 

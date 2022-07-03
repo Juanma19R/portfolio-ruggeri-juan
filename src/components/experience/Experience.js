@@ -16,42 +16,36 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>HTML</h4>
-                                <small className='text-light'>Experimentado</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>CSS</h4>
-                                <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>SASS</h4>
-                                <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>Bootstrap</h4>
-                                <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>JavaScript</h4>
-                                <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>React JS</h4>
-                                <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
                     </div>
@@ -64,28 +58,30 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>Firebase</h4>
-                                <small className='text-light'>Basico</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon'/>
+                            <div>
+                                <h4>Postman</h4>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>GIT</h4>
-                                <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>SCRUM</h4>
-                                <small className='text-light'>Basico</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
-                                <h4>Ingles</h4>
-                                <small className='text-light'>B1</small>
+                                <h4>Ingles B1</h4>
                             </div>
                         </article>
                     </div>
