@@ -48,6 +48,18 @@ const Experience = () => {
                                 <h4>React JS</h4>
                             </div>
                         </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon'/>
+                            <div>
+                                <h4>Redux</h4>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon'/>
+                            <div>
+                                <h4>Materialize CSS</h4>
+                            </div>
+                        </article>
                     </div>
                 </div>
 
@@ -64,6 +76,12 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience__details-icon'/>
                             <div>
                                 <h4>Postman</h4>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon'/>
+                            <div>
+                                <h4>Axios</h4>
                             </div>
                         </article>
                         <article className='experience__details'>
